@@ -47,7 +47,7 @@ export const experience: ExperienceEntry[] = [
     role: "Associate Software Engineer",
     org: "Virtusa",
     location: "Telangana, India",
-    period: "Jun 2022 – Jun 2023",
+    period: "Jun 2021 – Jun 2022",
     bullets: [
       "Engineered RESTful APIs with layered architecture, enhancing maintainability and reducing service dependency risks by 30% in a complex financial system.",
       "Refined SQL queries using JDBC, improving data retrieval efficiency and accuracy by 25% for critical banking transactions.",
