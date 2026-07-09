@@ -19,12 +19,6 @@ export default function Hero() {
             View Projects
           </a>
           <a
-            href="/resume.pdf"
-            className="rounded-full border border-white/20 px-6 py-3 text-sm font-semibold text-slate-100 transition-colors hover:border-accent hover:text-accent focus-visible:outline-accent"
-          >
-            Resume
-          </a>
-          <a
             href="#contact"
             className="rounded-full border border-white/20 px-6 py-3 text-sm font-semibold text-slate-100 transition-colors hover:border-accent hover:text-accent focus-visible:outline-accent"
           >
