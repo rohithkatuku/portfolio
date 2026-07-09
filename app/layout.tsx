@@ -8,6 +8,11 @@ export const metadata: Metadata = {
   title: "Rohith Katuku — AI Engineer",
   description:
     "AI engineer specializing in generative AI, RAG, and LLM evaluation frameworks, with a backend foundation in Java Spring Boot.",
+  openGraph: {
+    title: "Rohith Katuku — AI Engineer",
+    description: "AI engineer specializing in generative AI, RAG, and LLM evaluation frameworks.",
+    type: "website",
+  },
 };
 
 export default function RootLayout({
