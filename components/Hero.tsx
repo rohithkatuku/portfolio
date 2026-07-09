@@ -1,9 +1,6 @@
-import ParticleField from "./ParticleField";
-
 export default function Hero() {
   return (
-    <section id="top" className="relative flex min-h-screen items-center overflow-hidden bg-bg">
-      <ParticleField />
+    <section id="top" className="relative flex min-h-screen items-center overflow-hidden">
       <div className="relative mx-auto max-w-3xl px-6 text-center">
         <p className="mb-4 text-sm uppercase tracking-[0.2em] text-accent2">AI Engineer &amp; Software Engineer</p>
         <h1 className="text-4xl font-bold text-slate-50 sm:text-6xl">Rohith Katuku</h1>

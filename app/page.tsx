@@ -1,4 +1,5 @@
 import Nav from "@/components/Nav";
+import SpaceBackground from "@/components/SpaceBackground";
 import Hero from "@/components/Hero";
 import About from "@/components/About";
 import Skills from "@/components/Skills";
@@ -12,6 +13,7 @@ import ScrollReveal from "@/components/ScrollReveal";
 export default function Home() {
   return (
     <>
+      <SpaceBackground />
       <Nav />
       <Hero />
       <ScrollReveal>
