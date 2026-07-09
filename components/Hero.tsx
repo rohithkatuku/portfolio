@@ -8,7 +8,8 @@ export default function Hero() {
         <p className="mb-4 text-sm uppercase tracking-[0.2em] text-accent2">AI Engineer &amp; Software Engineer</p>
         <h1 className="text-4xl font-bold text-slate-50 sm:text-6xl">Rohith Katuku</h1>
         <p className="mx-auto mt-6 max-w-xl text-lg text-muted">
-          I build generative AI and RAG systems — and the production backend software that ships them.
+          I build practical AI systems, from RAG pipelines to the backend software that makes them work in production.
+
         </p>
         <div className="mt-10 flex flex-wrap items-center justify-center gap-4">
           <a
